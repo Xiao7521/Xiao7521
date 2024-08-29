@@ -1,4 +1,4 @@
-- 👋 Hi, I’m 肖晓霞
-- 👀 I like to read romance novels and horror movies
-- 🌱 I am currently studying UI interaction design
+- 👋 我是肖晓霞
+- 👀 我喜欢看言情小说和恐怖电影
+- 🌱 我正在学习UI交互设计
 
